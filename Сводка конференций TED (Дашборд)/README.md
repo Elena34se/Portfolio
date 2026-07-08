@@ -6,6 +6,9 @@
 #### Навыки и инструменты
 ---
 - Yandex DataLens
+- Создание датасетов
+- Wizard и QL-чарты
+- Разработка и настройка дашборда
 ---
 #### Общий вид дашборда
 <img width="1810" height="873" alt="Rdl2Ts9sq4qZzVqcWJkLmvmO1-IZw0aylAz1Ei9rsaZLmdxjDPdlpHI-1apsXln7kezXV4BtXycXBjPAjtArykqp" src="https://github.com/user-attachments/assets/a94e53d9-2e14-41c5-94a2-c36c292050da" />
