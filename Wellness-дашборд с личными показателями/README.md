@@ -12,5 +12,5 @@
 - Разработка и настройка дашборда
 ---
 #### Общий вид дашборда
-<img width="1826" height="862" alt="nX97f2Mtpyva-N7OfMd2c-LzPqoQCbYLRtNThjJ5a5ta7DoXOn5d6rU3cWzpXGWfPyX-gqQIfbnANzjPtNtHz6ae" src="https://github.com/user-attachments/assets/15b4fac7-32c1-4e84-a89e-4fbcec47c59e" />
-<img width="1847" height="843" alt="M2u1yJMTL47VyiqvBmGoUXCVRvT1M3U2JVJIlxhinfjqegI_yZ4DSY9Jf_TReASrJ5oB3lVbY5ajgp6dwC68FvZI" src="https://github.com/user-attachments/assets/2287a8d2-814f-46df-91d0-995583b0f6c4" />
+<img width="1845" height="816" alt="nWC4Um32SsXhyJTcSvb9CVr90Cce1LR4rjQFSmc2-NejIfEwtXdq5HG63n53ip8boXTr6PqC3UeK1CUxTvk7GilA" src="https://github.com/user-attachments/assets/e1bc7bc5-0916-45c6-b5a5-4125859a4bcf" />
+<img width="1825" height="861" alt="9zRejx_qb0FsM_YfQ5cXJCJ9WdaCleMCFzLVGD16Wazt-vgwXZTbaPeYypOmUq830gDp4wO4_KgUFXX8dLN4tGMr" src="https://github.com/user-attachments/assets/417f94da-2b43-4b93-8c8c-9b4df546d7f5" />
