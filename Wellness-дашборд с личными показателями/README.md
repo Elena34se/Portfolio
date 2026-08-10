@@ -12,5 +12,5 @@
 - Разработка и настройка дашборда
 ---
 #### Общий вид дашборда
-<img width="1825" height="857" alt="HZk50f9nxgATECV_-G-lmdf7ZHciw29KjXBhsKeKOhgX8jcvoDelFG7nVgGWgMajGapaxG_npSfi-PWArUG8jPFy" src="https://github.com/user-attachments/assets/fbf50b6f-55e9-45d1-8e72-f058849331d0" />
-<img width="1845" height="816" alt="nWC4Um32SsXhyJTcSvb9CVr90Cce1LR4rjQFSmc2-NejIfEwtXdq5HG63n53ip8boXTr6PqC3UeK1CUxTvk7GilA" src="https://github.com/user-attachments/assets/e1bc7bc5-0916-45c6-b5a5-4125859a4bcf" />
+<img width="1822" height="861" alt="image" src="https://github.com/user-attachments/assets/7cc42c82-4363-401a-9c59-6e8a1d96d23a" />
+<img width="1838" height="826" alt="image" src="https://github.com/user-attachments/assets/8f67b9c6-9565-4bb4-b7c4-95af5e9a18a0" />
