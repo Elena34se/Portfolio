@@ -6,7 +6,7 @@
 
 ## Навыки
 
-**SQL:** PostgreSQL, CTE, JOIN, оконные функции, CASE-сегментация, перцентили, условная агрегация, работа с датами.
+**SQL:** PostgreSQL, CTE, JOIN, оконные функции, CASE-сегментация, условная агрегация, работа с датами.
 
 **Python:** pandas, NumPy, Matplotlib, Seaborn, SciPy, statsmodels, phik, Jupyter Notebook.
 
